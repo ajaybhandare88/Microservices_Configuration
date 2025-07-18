@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: default-employee-service
-
 
 eureka:
   instance:
